@@ -1,5 +1,4 @@
-Execute on Both "Master" & "Worker Node"..
-#####################
+
 sudo kubeadm config images pull
 
 sudo kubeadm init
